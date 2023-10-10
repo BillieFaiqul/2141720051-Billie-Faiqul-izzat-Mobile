@@ -8,7 +8,7 @@
 
 Membuat project flutter baru dengan nama **hello_world**
 
-![Screenshot hello_wolrd](hello_world/images/project_baru.png)
+![Screenshot hello_wolrd](hello_world/images/baru.png)
 
 # Praktikum 2: Membuat Repository GitHub dan Laporan Praktikum
 
@@ -16,7 +16,7 @@ Membuat project flutter baru dengan nama **hello_world**
 
 A new Flutter project
 
-![Screenshot hello_wolrd](hello_world/images/01.png)
+![Screenshot hello_wolrd](hello_world/images/p1.png)
 
 ![Screenshot hello_wolrd](hello_world/images/andro_p2_l11.png)
 
