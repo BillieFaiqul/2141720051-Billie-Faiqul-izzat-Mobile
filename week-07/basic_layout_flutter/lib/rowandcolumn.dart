@@ -10,7 +10,8 @@ class MyColumn extends StatelessWidget {
     return Row(
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
-        Image.network('https://pbs.twimg.com/media/D0ZBld7UwAAc1sv?format=png&name=360x360'),
+        Image.network(
+            'https://pbs.twimg.com/media/D0ZBld7UwAAc1sv?format=png&name=360x360'),
       ],
     );
   }
