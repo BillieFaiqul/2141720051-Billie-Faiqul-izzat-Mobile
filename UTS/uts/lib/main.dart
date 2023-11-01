@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:uts/tampilan/tampilan_history.dart';
+import 'package:uts/tampilan/tampilan_home.dart';
 
 void main() {
   runApp(
@@ -19,6 +20,7 @@ class MyApp extends StatefulWidget {
   const MyApp({super.key});
 
   static const tabScreens = [
+    Home(),
     History(),
   ];
 
